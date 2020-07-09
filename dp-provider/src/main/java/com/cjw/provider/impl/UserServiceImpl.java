@@ -1,6 +1,7 @@
-package com.cjw.demo.impl;
+package com.cjw.provider.impl;
 
-import com.cjw.demo.UserService;
+
+import com.cjw.api.UserService;
 
 /**
  * @Classname UserServiceImpl

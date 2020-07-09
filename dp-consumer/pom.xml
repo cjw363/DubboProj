@@ -9,8 +9,8 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.cjw.provider</groupId>
-	<artifactId>dp-provider</artifactId>
+	<groupId>com.cjw.consumer</groupId>
+	<artifactId>dp-consumer</artifactId>
 
 	<dependencies>
 		<dependency>

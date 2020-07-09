@@ -1,4 +1,4 @@
-package com.cjw.demo;
+package com.cjw.api;
 
 /**
  * @Classname UserService
